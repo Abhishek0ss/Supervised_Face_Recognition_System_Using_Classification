@@ -114,21 +114,6 @@ Probability distribution for unknown detection
 
 🧱 5. Dataset Format
 
-The dataset should follow this structure:
-
-dataset/
-│
-├── person1/
-│    ├── img1.jpg
-│    ├── img2.png
-│
-├── person2/
-│    ├── img1.jpg
-│    ├── img2.pgm
-│
-└── ...
-
-
 Each folder represents a class/identity.
 
 Supported extensions: .jpg, .jpeg, .png, .pgm
