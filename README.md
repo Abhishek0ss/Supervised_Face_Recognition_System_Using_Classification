@@ -184,10 +184,6 @@ Install dependencies:
 pip install numpy pandas scikit-learn dlib opencv-python seaborn matplotlib joblib
 
 
-(Optional for Colab users):
-!apt install cmake for dlib
-!pip install face-recognition-models if needed
-
 🚀 10. Future Enhancements
 
 Replace HOG features with deep neural embeddings (ArcFace / FaceNet)
